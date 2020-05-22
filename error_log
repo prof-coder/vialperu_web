@@ -1,0 +1,2 @@
+[11-May-2020 11:14:19 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/vialperu/public_html/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php on line 79
+[11-May-2020 11:14:19 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/vialperu/public_html/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
